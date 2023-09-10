@@ -1,4 +1,4 @@
 # sample
 this is a sample repo
 <br>
-Sridhar Sripathi
+Sridhar Sripathi, India
